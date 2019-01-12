@@ -4,7 +4,6 @@
 	Node left, right,parent;
 	int key;
 	c color;
-//	o orientation;
 	
 	Node(int key){
 		this.key=key;
